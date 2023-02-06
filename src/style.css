@@ -1,0 +1,126 @@
+body{
+		background-color: #F4F5F6;
+}
+div.head{
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    left: 50%;
+    top: 50%;
+    margin-left: -300px;
+
+}
+p.head1 {
+		background-color: #916a23;
+		color: #F4F5F6;
+		float: right;
+		position: relative;
+  		bottom: 15px;
+  		font-weight:900;
+  		padding-left: 30px;
+  		padding-right: 30px;
+  		padding-top: 10px;
+  		padding-bottom: 10px;
+  		font-size: 12px;
+}
+p.head1log {
+		background-color: #916a23;
+		color: #F4F5F6;
+		float: right;
+		position: relative;
+  		bottom: 15px;
+  		font-weight:900;
+  		padding-left: 40px;
+  		padding-right: 40px;
+  		padding-top: 10px;
+  		padding-bottom: 10px;
+  		font-size: 12px;
+}
+p.head1back {
+		background-color: #916a23;
+		color: #F4F5F6;
+		float: right;
+		position: relative;
+  		bottom: 15px;
+  		font-weight:900;
+  		padding-left: 43px;
+  		padding-right: 43px;
+  		padding-top: 10px;
+  		padding-bottom: 10px;
+  		font-size: 12px;
+}
+p.head1book {
+        position: absolute;
+        width: 135px;
+        height: 25px;
+        left: 50%;
+        top: 45%;
+        margin-left: -75px;
+        background-color: #916a23;
+        color: #F4F5F6;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        font-weight:900;
+        font-size: 20px;
+}
+p.head2book {
+        position: absolute;
+        width: 135px;
+        height: 25px;
+        left: 50%;
+        top: 55%;
+        margin-left: -75px;
+        background-color: #916a23;
+        color: #F4F5F6;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 10px;
+        font-weight:900;
+        font-size: 20px;
+}
+p.head2 {
+		color: #CCCCCC;
+		float: right;
+		padding-left: 5px;
+		padding-left: 5px;
+		position: relative;
+  		bottom: 15px;
+}
+p.head3{
+		color: #333333;
+		background: white;
+		padding-top: 13px;
+		padding-bottom: 13px;
+		text-align:center;
+		font-family: sans-serif;
+		font-weight:900;
+		font-size: 48px;
+		position: relative;
+  		bottom: 28px;
+}
+p.head4{
+		background: #333333;
+		color: white;
+		padding-top: 13px;
+		padding-bottom: 13px;
+		text-align:center;
+		font-weight:900;
+		font-size: 13px;
+		line-height:0pt;
+		position: relative;
+  		bottom: 75px;
+}
+p.head5{
+		position: relative;
+  		bottom: 95px;
+}
+p.head6{
+        position: relative;
+        top: 100px;
+}
+
+p.head7{
+        position: relative;
+        bottom: 200px;
+}

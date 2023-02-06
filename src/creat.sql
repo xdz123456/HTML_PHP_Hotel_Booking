@@ -1,0 +1,3 @@
+CREATE TABLE `scydx2`.`joinnow` ( `ID` INT(11) NOT NULL AUTO_INCREMENT , `username` VARCHAR(30) NOT NULL , `password` VARCHAR(30) NOT NULL , `psw` VARCHAR(30) NOT NULL , `realname` VARCHAR(30) NOT NULL , `passportID` VARCHAR(30) NOT NULL , `telephone` VARCHAR(30) NOT NULL , `email` VARCHAR(30) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = InnoDB CHARACTER SET utf8 COLLATE utf8_general_ci;
+
+CREATE TABLE `scydx2`.`bookroom` ( `ID` INT(11) NOT NULL AUTO_INCREMENT , `roomnum` INT(5) NOT NULL , `checkindate` INT(9) NOT NULL , `checkoutdate` INT(9) NOT NULL , `roomtype` INT(1) NOT NULL , `username` VARCHAR(30) NOT NULL , PRIMARY KEY (`ID`)) ENGINE = InnoDB CHARACTER SET utf8 COLLATE utf8_general_ci;
